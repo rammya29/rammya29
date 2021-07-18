@@ -19,9 +19,19 @@
 - 😄 Pronouns: What do you think?
 - ⚡ Fun fact: Instead of the job I have, I’ve always dreamed of being Magician.
 
+
+📌 My technical skills include :
+
+ 
+ - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/matlab.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 **GitHub Status🎯**<br>
+
+![](https://komarev.com/ghpvc/?username=rammya29&color=brightgreen)
 
 <img width="20%" src="https://profile-counter.glitch.me/{rammya29}/count.svg" /> 
 
@@ -37,7 +47,7 @@
 
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=rammya29&theme=xcode" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=rammya29&theme=react-dark&hide_border=true&area=true" /></p>
 </details>
 
 <details><summary>Trophies</summary>
@@ -49,6 +59,10 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rammya29&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rammya29&theme=tokyonight" />
+  <img height="230px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammya29&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+
 </p>
+
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
