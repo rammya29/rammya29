@@ -59,8 +59,6 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rammya29&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rammya29&theme=tokyonight" />
-  <img height="230px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammya29&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-
 </p>
 
 
