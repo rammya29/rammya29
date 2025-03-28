@@ -9,23 +9,24 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently studying Final-year in ECE department.
-- 📝 I'm currently working on Image Processing Project.
-- 🌱 I’m currently learning Machine learning.
-- 👯 I’m looking to collaborate on Open source project.
-- 🤔 I’m looking for help with learning Azure and AWS. 
-- 💬 Ask me about Python, Matlab, SQL.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rammya-dharshini-k-95b74318b)
-- 😄 Pronouns: What do you think?
-- ⚡ Fun fact: Instead of the job I have, I’ve always dreamed of being Magician.
+- 🔭 I’m currently working as an RPA Developer with expertise in UiPath, Power Automate, and Automation Anywhere.
+- 📝 I’m exploring AI and automation use cases to enhance business efficiency.
+- 🌱 I’m currently learning advanced AI-driven automation and process optimization.
+- 👯 I’m open to collaborating on impactful automation projects.
+- 🤔 I’m looking for opportunities to integrate AI with RPA for intelligent automation.
+- 💬 Ask me about UiPath, Power Automate, Automation Anywhere, and automation best practices.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rammyak/)
+- ⚡ Fun fact: If not in automation, I'd probably be finding ways to automate life itself! 🤖⚡
+
+#RPA #TechLife #Efficiency #Automation #TechMagic
 
 
 📌 My technical skills include :
 
- 
+- 🛠️ *Tools* <img align="center" height="30" src="https://github.com/user-attachments/assets/c0ae8253-6e0b-481c-bbe0-c65f935980ed"><img align="center" height="30" src="https://github.com/user-attachments/assets/6b7a12cf-545b-4555-8812-ef416db2f889">
+
  - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/matlab.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/>
  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
-
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
